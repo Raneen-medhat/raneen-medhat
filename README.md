@@ -24,10 +24,6 @@ I specialize in building scalable and performant web applications with modern fr
 
 ---
 
-## 📈 GitHub Stats
-![Raneen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raneen-medhat&show_icons=true&theme=radical)
-
----
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/raneen-ossman/)
